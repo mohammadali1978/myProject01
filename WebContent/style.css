@@ -21,7 +21,7 @@ h1.welcomeHeading {
 .loginForm {
     background: ghostwhite;
     display: block;
-    width:70%;
+    width:100%;
     border: 3px solid coral;
     position: relative;
     top: 30px;
