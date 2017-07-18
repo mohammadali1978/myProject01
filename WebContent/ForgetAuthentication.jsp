@@ -10,7 +10,7 @@
 	<h1 align="center">"OOps!!! Invalid Username/Password"</h1>
 	<hr />
 	<p align="center">
-		<a href="index.jsp">Click Here to Login Again</a>
+		<a href="index.html">Click Here to Login Again</a>
 	</p>
 
 	<p align="center">
