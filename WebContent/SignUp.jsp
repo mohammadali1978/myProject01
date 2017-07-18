@@ -7,10 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1 align="center">"OOps!!! It's under constructions"</h1>
+	<h1 align="center">"OOps!!! Signup is under constructions"</h1>
 	<hr />
 	<p align="center">
-		<a href="index.html">Click Here to Try Again with correct User ID &amp; Password</a>
+		<a href="index.html">Click here Login Page</a>
 	</p>
 </body>
 </html>

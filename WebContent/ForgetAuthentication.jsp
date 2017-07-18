@@ -14,8 +14,7 @@
 	</p>
 
 	<p align="center">
-		<em>If you are a new user please </em><a href="SignupDetails.jsp">Click
-			Here</a><em> to SignUp</em>
+		<em>Forget password is under construcion</em>
 	</p>
 </body>
 </html>
